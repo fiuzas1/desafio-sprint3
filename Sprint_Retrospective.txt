@@ -1,0 +1,12 @@
+Sprint Retrospective
+
+O que funcionou bem:
+- Uso das branches separadas facilitou a organização do trabalho.
+- Consegui aplicar o Git com sucesso para controlar as alterações.
+
+O que não funcionou bem:
+- Houve dificuldade inicial para entender o uso das branches no terminal.
+
+Sugestões de melhoria:
+- Criar um checklist para as etapas do Git em futuros projetos.
+- Fazer testes locais antes do push final para o repositório remoto.
